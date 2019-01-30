@@ -1,0 +1,2 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Контакты");?><?CNext::ShowPageType('page_contacts');?><br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
